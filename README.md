@@ -12,10 +12,10 @@ Window                        WINDOW('Composite label demo'),AT(,,319,91),CENTER
                                 BUTTON('Close'),AT(258,68,48),USE(?bClose),STD(STD:Close)
                               END
 ```
-![cl1](https://github.com/mikeduglas/CompositeLabel/blob/master/screenshots/cl1.png?raw=true)    
+![clplain](https://github.com/mikeduglas/CompositeLabel/blob/master/screenshots/clplain.png?raw=true)    
 
 Next screenshot shows same string, with some style changing (the word "consectetur" in bold, the word "eiusmod" in red and underlined).
-![cl2](https://github.com/mikeduglas/CompositeLabel/blob/master/screenshots/cl2.png?raw=true)    
+![clstyled](https://github.com/mikeduglas/CompositeLabel/blob/master/screenshots/clstyled.png?raw=true)    
 
 
 ### Requirements
