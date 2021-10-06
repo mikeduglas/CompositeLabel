@@ -17,6 +17,8 @@ Window                        WINDOW('Composite label demo'),AT(,,319,91),CENTER
 Next screenshot shows same string, with some style changing (the word "consectetur" in bold, the word "eiusmod" in red and underlined).
 ![clstyled](https://github.com/mikeduglas/CompositeLabel/blob/master/screenshots/clstyled.png?raw=true)    
 
+## Features
+- Supported left, center, right justified strings.
 
 ### Requirements
 - C6 and higher, ABC/Legacy
