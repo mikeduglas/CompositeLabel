@@ -28,4 +28,4 @@ Next screenshot shows same string, with some style changing (the word "consectet
 - <mikeduglas66@gmail.com>
 
 ### Price
-- $50
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1664&q=1&)
